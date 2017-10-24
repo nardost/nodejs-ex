@@ -25,7 +25,7 @@
   * [Compatibility](#compatibility)
   * [License](#license)
 
-<!-- tocstop -->
+<!-- tocstop ----->
 
 ## Node.js sample app on OpenShift!
 -----------------
